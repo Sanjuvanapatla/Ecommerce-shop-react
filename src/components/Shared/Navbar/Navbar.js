@@ -21,7 +21,7 @@ const Navbar = () => {
             <div className="container">
 
                 <NavLink className="navbar-brand" to="/">
-                    <img src={logo} width={50} className='img-fluid' alt="logo" />MERN E-Commerce
+                    <img src={logo} width={50} className='img-fluid' alt="logo" />BuyNJoy
                 </NavLink>
 
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
